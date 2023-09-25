@@ -1,2 +1,3 @@
-# CompSciWebsite
-website for compsci class
+# My Pets' Website for CompSci Class
+youpee! pets!
+
