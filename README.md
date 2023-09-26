@@ -5,6 +5,6 @@ youpee! pets!
 <body>
   <div>
     <p><strong>norman</strong><br><br></p>
-    <img src="[norman](https://github.com/caroline-adams/CompSciWebsite/assets/145708664/a8400187-2f9c-4be3-bff2-b5fccd0d9181)"
+    <img src="norman.jpeg" width="300" height="320"/>
   </div>
 </body>
