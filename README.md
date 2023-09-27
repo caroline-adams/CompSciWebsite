@@ -22,6 +22,8 @@ youpee! pets!
     <img src="davorian.jpeg" width="300" height="350"/><br><br>
     <p><strong>herbie</strong><br><br></p>
     <img src="herbie.jpeg" width="300" height="350"/><br><br>
+    <p><strong>ej (elsa jr.)</strong><br><br></p>
+    <img src="ej.jpeg" width="300" height="350"/><br><br>
   </div>
   <div>
     <h2>dogs</h2>
@@ -29,6 +31,9 @@ youpee! pets!
     <img src="dug.jpeg" width="300" height="350"/><br><br>
     <p><strong>squirt</strong><br><br></p>
     <img src="squirt.jpeg" width="300" height="350"/><br><br>
+  </div>
+  <div>
+    <p><em>Cute Cats and Dogs --> [link] (https://www.thedodo.com/)</em></p>
   </div>
 </body>
 </html>
