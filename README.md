@@ -8,7 +8,10 @@ youpee! pets!
     <p><strong>norman</strong><br><br></p>
     <img src="norman.jpeg" width="300" height="350"/><br><br>
     <p><strong>mimi</strong><br><br></p>
-    <img src="mimi.jpeg" width="300" height="350"
+    <img src="mimi.jpeg" width="300" height="350"/><br><br>
+    <p><strong>oskar</strong><br><br></p>
+    <img src="oskar.jpeg" width="300" height"350"
+    
   </div>
 </body>
 </html>
