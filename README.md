@@ -33,7 +33,7 @@ youpee! pets!
     <img src="squirt.jpeg" width="300" height="350"/><br><br>
   </div>
   <div>
-    <p><em>Cute Cats and Dogs --> <a>https://www.thedodo.com</a></em></p>
+    <p><em><a href="https://www.thedodo.com" target='_blank'>Cute Cats and Dogs Here</a></em></p>
   </div>
 </body>
 </html>
